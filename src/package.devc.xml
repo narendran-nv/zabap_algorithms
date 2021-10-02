@@ -4,6 +4,7 @@
   <asx:values>
    <DEVC>
     <CTEXT>A playground to solve some algorithms using ABAP</CTEXT>
+    <PACKTYPE>H</PACKTYPE>
    </DEVC>
   </asx:values>
  </asx:abap>
