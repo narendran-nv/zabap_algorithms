@@ -5,6 +5,7 @@
    <PROGDIR>
     <NAME>ZNVNA_ALGO_2</NAME>
     <DBAPL>S</DBAPL>
+    <DBNA>D$</DBNA>
     <SUBC>1</SUBC>
     <FIXPT>X</FIXPT>
     <LDBNAME>D$S</LDBNAME>
@@ -13,8 +14,8 @@
    <TPOOL>
     <item>
      <ID>R</ID>
-     <ENTRY>Find number words from possible characters</ENTRY>
-     <LENGTH>42</LENGTH>
+     <ENTRY>Find possible words from list of allowed characters</ENTRY>
+     <LENGTH>51</LENGTH>
     </item>
    </TPOOL>
   </asx:values>
